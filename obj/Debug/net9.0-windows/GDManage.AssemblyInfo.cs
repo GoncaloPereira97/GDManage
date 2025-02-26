@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GDManage")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+326d341bd2e17593bcd66463d4ada1b91f583283")]
 [assembly: System.Reflection.AssemblyProductAttribute("GDManage")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GDManage")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
